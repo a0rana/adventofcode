@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1704.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC-Day-1", "AOC-Day1\AOC-Day-1.csproj", "{0D129174-62AE-4DD7-BCAC-CEB4F09DD346}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC-Day-1", "AOC-Day-1\AOC-Day-1.csproj", "{0D129174-62AE-4DD7-BCAC-CEB4F09DD346}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC-Day-2", "AOC-Day-2\AOC-Day-2.csproj", "{EB4C4C1F-AC53-4099-929D-AD36ABE63AC8}"
 EndProject

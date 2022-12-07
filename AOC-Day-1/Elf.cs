@@ -1,5 +1,5 @@
-﻿using System;
-namespace AOC_Day1
+using System;
+namespace AOC_Day_1
 {
 	public class Elf
 	{

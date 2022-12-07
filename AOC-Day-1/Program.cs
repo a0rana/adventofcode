@@ -1,4 +1,4 @@
-﻿namespace AOC_Day1;
+namespace AOC_Day_1;
 class Program
 {
     static void Main(string[] args)
