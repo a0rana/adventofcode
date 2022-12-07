@@ -22,6 +22,7 @@ mono_crash.*
 **/bin
 **/debug
 **/obj
+**/*.DS_Store
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
